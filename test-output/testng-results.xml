@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-23T23:40:23 IST" name="Suite" finished-at="2025-03-23T23:41:02 IST" duration-ms="38840">
+    <groups>
+    </groups>
+    <test started-at="2025-03-23T23:40:23 IST" name="Test" finished-at="2025-03-23T23:41:02 IST" duration-ms="38840">
+      <class name="com.execution.TestExecutionPage">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.execution.TestExecutionPage@6138e79a]" started-at="2025-03-23T23:40:23 IST" name="browserSetup" finished-at="2025-03-23T23:40:27 IST" duration-ms="4479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="navigateToDemoBlaze()[pri:1, instance:com.execution.TestExecutionPage@6138e79a]" started-at="2025-03-23T23:40:27 IST" name="navigateToDemoBlaze" finished-at="2025-03-23T23:40:30 IST" duration-ms="2578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToDemoBlaze -->
+        <test-method signature="buyPhone()[pri:2, instance:com.execution.TestExecutionPage@6138e79a]" started-at="2025-03-23T23:40:30 IST" name="buyPhone" finished-at="2025-03-23T23:40:34 IST" duration-ms="4206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyPhone -->
+        <test-method signature="addLaptop()[pri:3, instance:com.execution.TestExecutionPage@6138e79a]" started-at="2025-03-23T23:40:34 IST" name="addLaptop" finished-at="2025-03-23T23:40:39 IST" duration-ms="4844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLaptop -->
+        <test-method signature="addMonitor()[pri:4, instance:com.execution.TestExecutionPage@6138e79a]" started-at="2025-03-23T23:40:39 IST" name="addMonitor" finished-at="2025-03-23T23:40:46 IST" duration-ms="7020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMonitor -->
+        <test-method signature="removePhoneFromCartPage()[pri:5, instance:com.execution.TestExecutionPage@6138e79a]" started-at="2025-03-23T23:40:46 IST" name="removePhoneFromCartPage" finished-at="2025-03-23T23:41:01 IST" duration-ms="14670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removePhoneFromCartPage -->
+        <test-method signature="placeOrder()[pri:6, instance:com.execution.TestExecutionPage@6138e79a]" started-at="2025-03-23T23:41:01 IST" name="placeOrder" finished-at="2025-03-23T23:41:01 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+        <test-method signature="verifyPurchaseDetails()[pri:7, instance:com.execution.TestExecutionPage@6138e79a]" started-at="2025-03-23T23:41:01 IST" name="verifyPurchaseDetails" finished-at="2025-03-23T23:41:01 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPurchaseDetails -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.execution.TestExecutionPage@6138e79a]" started-at="2025-03-23T23:41:01 IST" name="CloseBrowser" finished-at="2025-03-23T23:41:02 IST" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.execution.TestExecutionPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
